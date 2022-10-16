@@ -1,0 +1,107 @@
+*{
+  text-align: center;
+}
+nav{
+  display: flex;
+  flex-direction: row;
+  width: 98%;
+  height: 30px;
+  background-color: rgb(235, 235, 243);
+  padding: 20px;
+  }
+  #search{
+    border-radius: 5px;
+    border: 1px solid gray;
+  }
+
+  #link1{
+    margin-left: 250px;
+    padding-left: 20px;
+    padding-right: 20px;
+   color: rgb(6, 6, 6);
+      font-size: 30px;
+      margin-top: -1%;
+      text-align: center;
+      text-decoration: none;
+ 
+  }
+
+  #link2{
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+    text-align: center;
+  }
+
+  #link3{
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+  }
+
+  #link4{
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+    text-align: center;
+  }
+  #msgs{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 400px;
+    text-decoration: none;
+    font-size: 20px;
+  }
+  #noti{
+  
+    padding-right: 20px;
+    padding-left: 20px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 20px;
+  }
+  #footer{
+    color: gray;
+    font-size: small;
+    margin-top: 435px;
+    background-color: rgb(235, 235, 243);
+  }
+  #fblogo{
+    height: 50px;
+    width: 50px;
+    padding-right: 10px;
+    border-radius: 90%;
+    margin-left: 10px;
+    margin-top: -1%;
+  }
+  #link1:hover{
+    background-color: grey;
+    transition: 0.3s;
+    text-decoration:wavy;
+  }
+  #link2:hover{
+    background-color: grey;
+    transition: 0.3s;
+    text-decoration:wavy;
+  }
+  #link3:hover{
+    background-color: grey;
+    transition: 0.3s;
+    text-decoration:wavy;
+  }
+  #link4:hover{
+    background-color: grey;
+    transition: 0.3s;
+    text-decoration:wavy;
+  }
+  #msgs:hover{
+    background-color: grey;
+    transition: 0.3s;
+    text-decoration:wavy;
+  }
+  #noti:hover{
+    background-color: grey;
+    transition: 0.3s;
+    text-decoration:wavy;
+  }

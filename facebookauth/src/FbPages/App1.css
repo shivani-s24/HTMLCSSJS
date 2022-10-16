@@ -1,0 +1,21 @@
+#login{
+  padding-top: 10%;
+height: 500px;
+width: 1380px;
+position:sticky;
+background-color: aliceblue;
+margin: -8%;
+border:1px solid black;
+}
+#loginbtn{
+  color: white;
+  font-weight: 5px;
+  border: 1px solid rgb(73, 118, 6);
+  background-color: rgb(73, 118, 6);
+  width: 160px;
+  height: 35px;
+  border-radius: 15%;
+}
+#loginbtn:hover{
+  background-color: rgb(176, 212, 121);;
+}
