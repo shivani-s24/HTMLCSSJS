@@ -1,0 +1,49 @@
+
+nav{
+  display: flex;
+  flex-direction: row;
+  width: 98%;
+  height: 30px;
+  background-color: rgb(5, 15, 103);
+  padding: 20px;
+  }
+  #tech{
+    font-weight: 1000;
+    font-size: large;
+    color: aliceblue;
+  }
+#Dashboard{
+  font-weight: 1000;
+  color: white;
+  padding: 10px;
+  margin-left: -32%;
+  text-decoration:solid;
+}
+#Dashboard:hover{
+  background-color: white;
+  color: black;
+  transition: 0.5s;
+}
+#Logout{
+  font-weight: 1000;
+  text-align: center;
+  text-decoration: solid;
+  color: white;
+  padding: 10px;
+  text-align: center;
+
+}
+#Logout:hover{
+  background-color: white;
+  color: black;
+  transition: 0.5s;
+}
+#login{
+  text-align: center;
+  border: 1px solid rgb(81, 114, 151);
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 10%;
+  background-color: rgb(162, 203, 245);
+
+}

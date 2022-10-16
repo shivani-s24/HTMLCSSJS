@@ -1,0 +1,84 @@
+#client{
+    border: 5px solid black;
+    padding: 1px;
+    background-color:  rgb(207, 236, 245);
+    margin-right: 60%;
+    margin-left: 2%;
+    color: black;
+}
+
+#product{
+    border: 5px solid black;
+    padding: 1px;
+    background-color: rgb(207, 236, 245);
+    margin-left: 42%;
+    margin-top: -27.6%;
+    color: black;
+}
+
+#revenue{
+    border: 5px solid black;
+    padding: 1px;
+    background-color: rgb(207, 236, 245);
+    margin-left: 42%;
+    margin-top: 2%;
+    color: black;
+}
+
+
+#sales{
+    border: 5px solid black;
+    padding: 1px;
+    background-color: rgb(207, 236, 245);
+    margin-right: 60%;
+    margin-top: -95%;
+    margin-left: 2%;
+    color: black;
+}
+
+#dashboard{
+    background-color: rgb(37, 57, 123);
+    color: white;
+    height: 150%;
+}
+#head{
+    margin-left: 5%;
+}
+#client:hover{
+    background-color: aliceblue;
+    color: black;
+    transition: 0.5s;
+}
+#product:hover{
+    background-color: aliceblue;
+    color: black;
+    transition: 0.5s;
+}
+#revenue:hover{
+    background-color: aliceblue;
+    color: black;
+    transition: 0.5s;
+}
+#sales:hover{
+    background-color: aliceblue;
+    color: black;
+    transition: 0.5s;
+}
+#logout{
+    text-align: center;
+    margin-top: 5%;
+    background-color: lightblue;
+    margin-left: 45%;
+    border: 3px solid darkblue;
+}
+#logout:hover{
+    background-color: aliceblue;
+}
+#loginbtn{
+    background-color: darkblue;
+    color: white;
+}
+#loginbtn:hover{
+    background-color: aliceblue;
+    color: black;
+}
